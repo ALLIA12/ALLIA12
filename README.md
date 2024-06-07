@@ -17,4 +17,4 @@ Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/ali-habibullah/)
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://raw.githubusercontent.com/ALLIA12/ALLIA12/main/GM5NKG0aAAAuC7V.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://raw.githubusercontent.com/ALLIA12/ALLIA12/main/adsoifjasoiudhjsaiuod.png');]{x0000}$}
